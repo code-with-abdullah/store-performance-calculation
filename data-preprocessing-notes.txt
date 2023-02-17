@@ -1,0 +1,5 @@
+Skipping Town column as it has no significant value for our model. Only shows 136 towns are in the data.
+
+2 countries only - UK 134, France 2 (deleting rows with france)
+
+Skipping manager name. No Significance for the model
